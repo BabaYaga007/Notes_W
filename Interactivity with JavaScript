@@ -117,3 +117,16 @@ to compare only the particualar values of an element use element.value
 putting <label> tag on checkboxes lets u check the box by clicking on the text also
 
 <fieldset> tag makes an outline on the whole element and using <legend> tag with in will put the text in between the outline
+
+
+// Adding a simple program to write hello world in JS.
+We will use these three ways to print something in JavsScript.
+1. console.log()
+2. alert()
+3. document.write()
+
+// the hello world program
+console.log('Hello World. Welcome');
+alert("Welcome Peeps");
+document.write('Welcome to Coding');
+
