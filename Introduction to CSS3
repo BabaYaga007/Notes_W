@@ -120,3 +120,20 @@ Position = values {static, relative, absolute, fixed}
 -----------------------------------------------------Week 4----------------------------
 
 you can have many classes of same name in one document but can have only one id of a particular name in 1 document
+
+// CSS Selectors 
+
+a[title] { } - attribute selectors
+This group of selectors gives you different ways to select elements based on the presence of a certain attribute on an element:
+
+a:hover { } - psuedo classes
+he :hover pseudo-class for example selects an element only when it is being hovered over by the mouse pointer:
+
+p::first-line { } - pseudo elements
+::first-line always selects the first line of text inside an element (a <p> in the below case), 
+acting as if a <span> was wrapped around the first formatted line and then selected.
+
+article > p { } - Combinators
+selects paragraphs that are direct children of <article> elements using the child combinator (>):
+
+
