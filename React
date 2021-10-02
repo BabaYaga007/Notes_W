@@ -65,3 +65,21 @@ Every function can return only one element (HACK - envelope everything in a div 
 class attribute is written as className in react
 
 whenever we want to send data from one component to other we use props (aka properties)
+
+--------------------------------------------------------------------------------------------
+
+React Hooks
+
+1) useState => The most basic react hook. It is used to manage state in functional components. It simplifies the state process by providing a 
+		state variable along with a method to set that state.
+		
+2) useEffect => This hook is used in place of the component lifecycle methods in class components. It provides a way to optimize the number of 
+		times a webpage has to re-render.
+		
+3) useRef => This hook is used to get reference to a DOM Element on a webpage which can then be manipulated.
+
+4) useContext => Provides a simple way to use Global State Management using Context API.
+
+5) useReducer => Provides a simple way to use Global State Management using Redux.
+
+We can also create our own custom hooks to clean our code and provide high reusability.
