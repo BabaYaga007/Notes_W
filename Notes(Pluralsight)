@@ -1,0 +1,44 @@
+Course : - React Native: The Big Picture by Adhithi Ravichandran
+
+Notes-
+
+Components are small pieces of code that are organised togther. They are building blocks.
+Three types - Core Components (pre installed, out of box), Community Components, and your native Components 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Course :- React Native: Getting Started by Reggie Dawson
+
+Notes-
+
+Props (Properties) in RN are used to customize React Componenents. 
+They cannot be changed once set, when the component is created.
+
+RN uses React Navigation in order to navigate between different scenes/views of your app.
+
+cmd =>npx react-native init <projectname>  => creates app
+    add <--version> - for specific version of react native
+    add <--template> - use a specific template for app
+    add <--directory> - create a custom directory for app
+
+cmd =>npx react-native start  => starts Metro, which bundles the app and starts development server
+    instead we use AVD and start the device we created
+    and run cmd =>npc react-native run-android
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

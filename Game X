@@ -1,0 +1,17 @@
+Every player gets 3 cards.
+
+He is only to see the cards once before the game starts and remember them and their place
+
+The goal is to amass maximum number of Aces (max 3).
+In case of one or more players, end up with an equal number of Aces, the player with the lowest sum of cards wins. 
+
+Throwing King lets you reveal any player's card (including yourself) discreetly, without changing their precedence.
+Throwing Queen lets you shuffle any player's card including yurself discreetly.
+Throwing Jack lets you swap any player's card with yourself discreetly.
+
+No one can view their cards once the game start without throwing a King.
+
+Two piles are there, one new-cards pile and other used-cards pile
+
+The player picks one card from the new-cards pile, views it and if he wants to exchange the card 
+with their current cards, they can swap and their card on to the garbage pile.

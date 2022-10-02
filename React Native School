@@ -1,0 +1,9 @@
+Start date = 14/05/22
+End Date = 
+
+-------------------------------------------x-----------------------------------------
+
+For Expo App on phone and Metro Bundler to work, we have to have both devices on same network.
+
+Start the app =>yarn Start
+
